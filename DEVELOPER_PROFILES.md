@@ -31,3 +31,10 @@
 - Tools: VS Code, Git/GitHub, XAMPP
 - Field of Focus in Computer Science: Web Development
 - Fun Fact or Goal: I want to learn and improve my full-stack development skills.
+
+## Dejel Cyrus De Asis
+- Preferred Name: Dejel
+- Skills: Full Stack, Security Analyst, Prompt Engineering, Git, System Architecture
+- Tools: Figma, Codex, VS Code, Autopsy, Hashcat, Kali
+- Field of Focus in Computer Science: Cyber Security, Systems' Architecture
+- Fun Fact or Goal: My first ever programming language was Java
