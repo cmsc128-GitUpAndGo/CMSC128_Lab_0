@@ -8,3 +8,4 @@ This repository is for CMSC 128 Laboratory Activity 0 on Git and GitHub Organiza
 - Blancada, Eusef Karl
 - Sajorne, Chrystie Rae
 - Vincoy, Claire Dane
+- De Asis, Dejel Cyrus
