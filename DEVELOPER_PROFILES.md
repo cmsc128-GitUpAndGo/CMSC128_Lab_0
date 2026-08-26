@@ -8,7 +8,7 @@
 - Field of Focus in Computer Science: 
 - Fun Fact or Goal: 
 
-## [name]
+## Eusef Karl Blancada
 
 - Preferred Name: Eusef 
 - Skills: C, Rust, Fullstack (React + Postgres), Vibe Engineering (Agent Orchestration)
