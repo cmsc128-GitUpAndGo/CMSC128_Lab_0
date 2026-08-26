@@ -23,3 +23,11 @@
 - Tools: VS Code, Git, Canva, Figma
 - Field of Focus in Computer Science: Web Dev
 - Fun Fact or Goal: Develop a software that would let me run my favorite game (WOW) characters simultaneously, farming game resources, while I'm finishing my degree.
+
+## Claire Dane Vincoy
+
+- Preferred Name: Claire
+- Skills: Basic HTML, basic CSS, basic JavaScript, basic local database setup
+- Tools: VS Code, Git/GitHub, XAMPP
+- Field of Focus in Computer Science: Web Development
+- Fun Fact or Goal: I want to learn and improve my full-stack development skills.
