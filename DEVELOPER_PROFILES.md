@@ -13,5 +13,5 @@
 - Preferred Name: Eusef 
 - Skills: C, Rust, Fullstack (React + Postgres), Vibe Engineering (Agent Orchestration)
 - Tools: Visual Studio, Claude Code, Git, CMake, Cargo
-- Field of Focus in Computer Science: Low Level/Embedded Systems, Operating Systems
+- Field of Focus in Computer Science: Low Level/Embedded Systems, Operating Systems, Compilers
 - Fun Fact or Goal: Make an OS that can run League of Legends with 0 crashes and isnt spyware like Windows
